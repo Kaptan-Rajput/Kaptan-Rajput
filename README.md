@@ -48,8 +48,6 @@ Passionate about understanding and engineering materials at the atomic scale usi
 🔗 **LinkedIn:*www.linkedin.com/in/dr-kaptan-rajput-947992102*  
 </p>
 
-> *(Replace the placeholders with your actual links.)*
-
 ---
 
 ### 📊 GitHub Stats
