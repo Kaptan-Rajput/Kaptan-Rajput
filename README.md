@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm **Dr. Kaptan Rajput**
 
 🔬 **Post-doctoral Researcher in Computational Materials Physics**  
-Passionate about understanding and engineering materials at the atomic scale using **first-principles and atomistic simulations**.
+Passionate about understanding and engineering materials at the atomic scale using **first-principles atomistic simulations and their developments**.
 
 ---
 
